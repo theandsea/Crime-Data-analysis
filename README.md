@@ -1,4 +1,4 @@
-# Data-analysis-Project
+# Crime-Data-analysis
 Data Analysis for crime in LA.
 
 To get the data: 
